@@ -1,7 +1,3 @@
-Scope
-
-We want to develop a website  that will help organize and provide information on study groups or tutoring sessions going on in real time (within a couple of days).  Students will be able to navigate to a website where they will be able to search for a specific class to see if there are any “study groups” or “tutoring sessions” going on that day or in the near future.  For example, Brandon has a big exam in CIS411 that he needs to study for.  He has missed a couple of in-class notes and would like to meet with someone or a group in order to properly prepare for the exam.  Brandon decided to log into StudyCards.com and search for his class, CIS411.  Some students have decided to study in a group and posted the meeting on StudyCards.com.  The study group organizer has invited other students to join in the library at 5:00PM Monday.  Brandon posts that he will be attending the study session and later in the day, meets the group to study for the CIS411 Exam. 
-
 User Stories
 
 Format: (p92 of Agile Samurai)
@@ -13,158 +9,166 @@ So that <some reason>.
 As a student
 I want an easy way to find study groups for my classes
 So that I can prepare the most I can with others before an exam.
-Importance:
-Timeframe:
+Importance: #1
+Timeframe: duration of project ~2 weeks
 
 
 As a student,
 I want to be able to register to the website
 So that I can save classes to “my classes”
-Importance:
-Timeframe:
+Importance: #6
+Timeframe: 3days
 
 
-As A student,
+As a student,
 I want to be able to receive email notifications
 So that I will never miss when an update for “my classes” has been made.
-Importance:
-Timeframe:
+Importance: #23
+Timeframe: 3 days
 
 
 As a student,
 I want to be able to “browse” courses
 In order to find courses that I need to attend a study group for.
-Importance:
-Timeframe:
+Importance: #2
+Timeframe: 1 day
 
 
 As a student,
 I want the option to “search” for specific classes in a search box
 To make it more convenient to find courses if I know which course I am looking for.
-Importance:
-Timeframe:
+Importance: #3
+Timeframe: 1 day
 
 
 As a student,
 I want to click on a link that will take me to blackboard
 So that I have an easy way to get to blackboard from the website.
-Importance:
-Timeframe:
+Importance: #24
+Timeframe: <1 day
 
 
 As a student,
 I want to log in to the website
 So that I can keep my information separate from other students.
-Importance:
-Timeframe:
+Importance: #7
+Timeframe: 1 day
 
 
 As a student,
 I want to log out of the website
 So that I can keep others from changing my information or using my profile.
-Importance:
-Timeframe:
+Importance: #8
+Timeframe: 1day
 
 
 As a registered student,
 I want to see a list of study groups/events for only *my* classes
 So that I can quickly view information that is relevant to me.
-Importance:
-Timeframe:
+Importance: #9
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to select which classes I am enrolled in
 So that I can specify what information the website shows to me.
-Importance:
-Timeframe:
+Importance: #10
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to create study groups/events
 So that I can have other students show up to the same meetings.
-Importance:
-Timeframe:
+Importance: #11
+Timeframe: 3 days
 
 
 As a registered student,
 I want to be able to edit the study groups/events I create
 So that if I make a mistake or something comes up, I can change parts of the meeting.
-Importance:
-Timeframe:
+Importance: #12
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to delete the study groups/events I create
 So that if not enough people sign up or something comes up, I can remove the event from the system.
-Importance:
-Timeframe:
+Importance: #16
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to select “Attending” a study group
 So that the study group knows I will be attending.
-Importance:
-Timeframe:
+Importance: #13
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to cancel my attendance to a study group
 So that the study group knows I will no longer be attending.
-Importance:
-Timeframe:
+Importance: #15
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to select “Maybe Attending” a study group
 So that the study group will know that I might attend or might not.
-Importance:
-Timeframe:
+Importance: #14
+Timeframe: 1 day
 
 
 As a registered student
 I want to be able to post comments in a study group
 So that I can add additional information to a study group if I need to.
-Importance:
-Timeframe:
+Importance: #17
+Timeframe: 1 day
+
+
+As a registered student
+I want to be able to input a cutoff time into my created study group
+So that no additional students can join the study group after the cutoff  time has expired.
+Importance: #18
+Timeframe: 1 day
 
  
 As a registered student,
-I want to be able to view a list all students that have signed up for an event
+I want to be able to view a list of all students that have signed up for an event
 So that I can have some understanding of who all is going to be showing up.
-Importance:
-Timeframe:
+Importance: #19
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to add my personal information to my profile
 So that other students can view that information and contact me if needed.
-Importance:
-Timeframe:
+Importance: #21
+Timeframe: 2 days
 
 
 As a registered student,
 I want to be able to view certain information of other students that sign up for events I am a part of
 So that I can contact those students about the meeting.
-Importance:
-Timeframe:
+Importance: #20
+Timeframe: <1 day
 
 
 As a registered student,
 I want to be able to filter the list of groups/events
 So that I can find specific meetings within the list more quickly.
-Importance:
-Timeframe:
+Importance: #5
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to sort the listing,
 So that I can find specific meetings more quickly.
-Timeframe:
+Importance: #4
+Timeframe: 1 day
 
 
 As a registered student,
 I want to be able to post up contact information on my profile
 So that other students can contact me if they need to.
-Importance:
-Timeframe:
+Importance: #22
+Timeframe: <1 day
