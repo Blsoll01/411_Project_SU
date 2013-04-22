@@ -10,7 +10,7 @@ namespace StudyCards.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "the easiest way to find a study group.";
 
             return View();
         }
